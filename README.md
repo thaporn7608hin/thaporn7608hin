@@ -1,3 +1,4 @@
+# Hi, I'm Painekung
 
 ## 🚀 About Me
 I'm a full stack developer 
@@ -8,4 +9,4 @@ I'm a full stack developer
 🏢 Founder & Lead Developer at [Cursor Dev](https://www.instagram.com/cursor_dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)  
 📫 How to reach me: cursordev.tp@gmail.com
 
-![Painekung's GitHub stats](https://github-readme-stats.vercel.app/api?username=painekung&show_icons=true&theme=tokyonight)
+
