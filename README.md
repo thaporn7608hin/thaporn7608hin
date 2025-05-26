@@ -11,4 +11,4 @@ I'm a full stack developer
 
 ## Tech Stack 💻 
 
-<img width="70" height="70" src="./icons/HTML5.svg" alt=""> <img width="70" height="70" src="./icons/CSS3.svg" alt=""> <img width="70" height="70" src="./icons/Java.svg" alt="">
+<img width="70" height="70" src="./icons/HTML5.svg" alt=""> <img width="70" height="70" src="./icons/CSS3.svg" alt=""> <img width="70" height="70" src="./icons/JavaScript.svg" alt=""> <img width="70" height="70" src="./icons/React.svg" alt="">  <img width="70" height="70" src="./icons/NextJS.svg" alt="">
