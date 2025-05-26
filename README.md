@@ -17,4 +17,4 @@ I'm a full stack developer
 
 ## - Back-end
 
-<img width="60" height="60" src="./icons/Node.js.svg" alt=""><img width="60" height="60" src="./icons/PostgresSQL.svg" alt=""><img width="60" height="60" src="./icons/MySQL.svg" alt=""> <img width="60" height="60" src="./icons/mongo.svg" alt=""><img width="60" height="60" src="./icons/firebase.svg" alt=""><img width="60" height="60" src="./icons/prisma.svg" alt="">
+<img width="60" height="60" src="./icons/Node.js.svg" alt=""><img width="60" height="60" src="./icons/Express.svg" alt=""><img width="60" height="60" src="./icons/PostgresSQL.svg" alt=""><img width="60" height="60" src="./icons/MySQL.svg" alt=""> <img width="60" height="60" src="./icons/mongo.svg" alt=""><img width="60" height="60" src="./icons/firebase.svg" alt=""><img width="60" height="60" src="./icons/prisma.svg" alt="">
