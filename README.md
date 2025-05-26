@@ -10,3 +10,5 @@ I'm a full stack developer
 📫 How to reach me: cursordev.tp@gmail.com
 
 ## Tech Stack 💻 
+
+<img width="100" height="100" src="./icons/HTML5.svg" alt="">
