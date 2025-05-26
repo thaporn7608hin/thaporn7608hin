@@ -27,3 +27,9 @@ I'm a full stack developer
 
 ## Design & Media Tools
 <img width="60" height="60" src="./icons/ps.svg" alt=""><img width="60" height="60" src="./icons/pr.svg" alt=""><img width="60" height="60" src="./icons/ae.svg" alt="">
+
+## GitHub Stats
+![PaineKung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaporn7608hin&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaporn7608hin&layout=compact&theme=radical)
