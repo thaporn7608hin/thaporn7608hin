@@ -11,4 +11,4 @@ I'm a full stack developer
 
 ## Tech Stack 💻 
 
-<img width="100" height="100" src="./icons/HTML5.svg" alt="">
+<img width="70" height="70" src="./icons/HTML5.svg" alt="">
