@@ -26,4 +26,4 @@ I'm a full stack developer
 <img width="60" height="60" src="./icons/Postman.svg" alt=""><img width="60" height="60" src="./icons/Visual Studio Code (VS Code).svg" alt=""><img width="60" height="60" src="./icons/netbean.svg" alt=""><img width="60" height="60" src="./icons/Git.svg" alt=""><img width="60" height="60" src="./icons/Postman.svg" alt="">
 
 ## Design & Media Tools
-<img width="60" height="60" src="./icons/ps.svg" alt=""><img width="60" height="60" src="./icons/pr.svg" alt=""><img width="60" height="60" src="./icons/ae.svg" alt="">
+<img width="65" height="65" src="./icons/ps.svg" alt=""><img width="60" height="60" src="./icons/pr.svg" alt=""><img width="60" height="60" src="./icons/ae.svg" alt="">
