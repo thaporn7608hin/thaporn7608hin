@@ -21,3 +21,6 @@ I'm a full stack developer
 
 ## Programming Languages Skills
 <img width="60" height="60" src="./icons/Python.svg" alt=""><img width="60" height="60" src="./icons/C.svg" alt=""><img width="60" height="60" src="./icons/C++ (CPlusPlus).svg" alt=""><img width="60" height="60" src="./icons/Java.svg" alt="">
+
+## Tools, IDE
+<img width="60" height="60" src="./icons/Postman.svg" alt=""><img width="60" height="60" src="./icons/Visual Studio Code (VS Code).svg" alt=""><img width="60" height="60" src="./icons/netbean.svg" alt="">
